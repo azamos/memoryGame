@@ -1,0 +1,22 @@
+{
+  "name": "memorygame",
+  "version": "1.0.0",
+  "description": "naive,frontend only memory game, without persistence, which is ironic given the name \"memorygame\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azamos/memoryGame.git"
+  },
+  "author": "azamos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azamos/memoryGame/issues"
+  },
+  "homepage": "https://github.com/azamos/memoryGame#readme",
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}
